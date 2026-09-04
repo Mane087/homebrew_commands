@@ -1,3 +1,8 @@
+<img src="https://brew.sh/assets/img/homebrew-social-card.png" alt="homebrew-logo"/>
+
+---
+
+
 | **Description**                                                             | **Command**                                            | **Example**                                                 |
 | --------------------------------------------------------------------------- | ------------------------------------------------------ | ----------------------------------------------------------- |
 | Search for a package                                                        | <samp>brew search <package></samp>                     | <samp>brew search postgresql</samp>                         |
