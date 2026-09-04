@@ -2,6 +2,8 @@
 
 ---
 
+🇲🇽 [ES](https://github.com/Mane087/homebrew_commands) | 🇺🇸 [US] (https://github.com/Mane087/homebrew_commands/blob/main/README_US.md)
+
 | **Descripción**                                                             | **Comando**                                               | **Ejemplo**                                                     |
 | ----------------------------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------------- |
 | Buscar un paquete                                                       | <samp>brew search <paquete></samp>                    | <samp>brew search postgresql</samp>                         |
