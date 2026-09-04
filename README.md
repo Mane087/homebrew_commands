@@ -2,7 +2,7 @@
 
 ---
 
-🇲🇽 [ES](https://github.com/Mane087/homebrew_commands) | 🇺🇸 [US] (https://github.com/Mane087/homebrew_commands/blob/main/README_US.md)
+🇲🇽 [ES](https://github.com/Mane087/homebrew_commands) | 🇺🇸 [US](https://github.com/Mane087/homebrew_commands/blob/main/README_US.md)
 
 | **Descripción**                                                             | **Comando**                                               | **Ejemplo**                                                     |
 | ----------------------------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------------- |
